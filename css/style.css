@@ -204,9 +204,9 @@ html {
   left: 50%;
 
   font-size: 12px;
-  width: 17px;
-  height: 17px;
-  padding-top: 2px;
+  width: 15px;
+  height: 15px;
+  padding-top: 3px;
 
   color: var(--color-2);
   background-color: var(--color-4);

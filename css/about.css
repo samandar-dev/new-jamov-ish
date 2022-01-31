@@ -538,6 +538,9 @@ body {
   font-size: 23px;
   margin: 0;
 }
+
+.pagessolution {
+  padding: 110px 0 40px 0;
 .pagesall__text{
   font-family: 'Open Sans', sans-serif;
   color: var(--color-3);
@@ -696,6 +699,9 @@ body {
   background-color: var(--color-4);
 }
 
+.pagessolution {
+  padding: 110px 0 80px 0;
+}
 
 /* START PART-2   PAGES-INFO */
 
